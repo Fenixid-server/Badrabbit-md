@@ -2,7 +2,7 @@
 <h1 align="center">🎯badrabbit-MD🎯<br></h1>
 
 <p align="center"> 
-  Konochiwa Senpai, I am "badrabbit md " a WhatsApp bot made by fenix id server to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  I am "badrabbit md " a WhatsApp bot made by fenix id server to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 </p>
 </br>
 
